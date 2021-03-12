@@ -1,0 +1,30 @@
+main {
+    width: 50%;
+    min-width: 300px;
+    max-width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 40px 20px;
+    display: grid;
+    box-shadow: 10px 10px 5px 0px rgba(156, 153, 156, 1);
+}
+
+input {
+    width: 90%;
+    justify-self: center;
+}
+
+li {
+    font-size: 1.3em;
+}
+
+ul {
+    width: 60%;
+    justify-self: center;
+}
+
+h1,
+p {
+    text-align: center;
+}
